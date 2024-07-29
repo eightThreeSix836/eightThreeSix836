@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @eightThreeSix836
+- 👀 I’m interested in ooo wait I have a list written down, will change when i find it
+- 🌱 I’m currently learning Rust
+- ⚡ Fun fact: 836 is the smallest weird number that is also an untouchable number
